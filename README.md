@@ -1,4 +1,4 @@
-Pharmapp
+<strong>Pharmapp</strong>
 
 This is a SpringBoot application called Pharmapp. It is an application that displays most of the pharmacies in Macedonia.
 When clicked on, each pharmacy displays it's details such as: name, location, website, phone number, and working hours.
